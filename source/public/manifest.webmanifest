@@ -1,0 +1,17 @@
+{
+  "name": "ひとたび Hitotabi",
+  "short_name": "ひとたび",
+  "description": "旅の予定を、ひとつに。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f8",
+  "theme_color": "#0f6f7c",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
