@@ -1,4 +1,4 @@
-# 旅ノート (Tabi Note)
+# ひとたび (Hitotabi)
 
 旅行の予定を時間順にひとつにまとめるアプリ。React + Vite。データはブラウザの localStorage に保存(現状は端末内のみ)。
 

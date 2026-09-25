@@ -39,7 +39,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="top">
-        <button className="logo" onClick={() => { setTripId(null); setEditingTrip(false) }}>📖 {lang === 'ja' ? '旅ノート' : 'Tabi Note'} <small>TABI NOTE</small></button>
+        <button className="logo" onClick={() => { setTripId(null); setEditingTrip(false) }}>🧳 {lang === 'ja' ? 'ひとたび' : 'Hitotabi'} <small>HITOTABI</small></button>
         <div className="seg lang">
           <button className={lang === 'ja' ? 'on' : ''} onClick={() => setLang('ja')}>日本語</button>
           <button className={lang === 'en' ? 'on' : ''} onClick={() => setLang('en')}>English</button>
